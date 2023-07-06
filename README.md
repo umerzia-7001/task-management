@@ -1,6 +1,6 @@
 ## Programming Assignment
 
-![Design](design.png)
+![Design](demo.png)
 
 ### Implemented Using the Following Packages:
 1. Riverpod : state management
